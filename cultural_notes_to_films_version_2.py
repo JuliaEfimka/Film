@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import openai
 
 # Установите ваш API-ключ OpenAI
-openai.api_key = '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'
+openai.api_key = 'API-KEY'
 
 # Категории для анализа
 categories = ["set expression", "pun", "joke", "location", "venue", "event", "drug", "famous team", "food", "drink", "corporate humor", "science", "movie", "song", "book"]
